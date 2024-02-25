@@ -18,3 +18,6 @@
 ## ¿Como puedo utilizar OWASP?
 * Crear programas de aseguramiento de aplicaciones 🌟
 * Educacion continua
+
+> [!WARNING]
+> Notas de aprendizaje vistas en el curso 100% de @platzi
